@@ -2,10 +2,10 @@
 <img src="https://avatars0.githubusercontent.com/u/4674786?s=400&u=2f77d382a4428c141558772a2b7ad3a36bebf5bc&v=4" width="128" height="128"/>
 </p>
 <p align="center">
-<a href="#"><img title="MANICOMIO" src="https://img.shields.io/badge/LBot%20WhatsApp-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="MANICOMIO" src=""></a>
 </p>
 <p align="center">
-<a href="https://github.com/elicksom15"><img title="Autor" src="https://img.shields.io/badge/Autor-victorsouzaleal-blue.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/elicksom15"><img title="Autor" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHLdwj-y6FuP-B-00ntvu5f_xTF4k-oTk2asQNo9q3fBEt2PGBDoADQxjtuR-lnMd__CA&usqp=CAU"></a>
 
 
 ## Sobre o projeto :
