@@ -1,0 +1,34 @@
+# Ignorar node_modules
+node_modules
+
+# Ignorar Session data
+*.data.json
+
+# Ignorar package-lok
+package-lock.json
+
+#Ignorar node-persist
+.node-persist
+
+#Ignorar .env
+*.env
+
+
+#Ignorar logs
+*.log
+logs/session/*
+
+#Ignorar arquivos de mídia
+media/*.mp4
+media/img/noBg.png
+media/*.gif
+media/tts/*.mp3
+media/audios/*.mp3
+media/videos/*.mp4
+media/videos/*.jpg
+
+
+#Ignorar DB e etc
+database/db/*.db
+database/json/bot.json
+database/json/antiflood.json
