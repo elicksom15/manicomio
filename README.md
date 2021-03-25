@@ -6,16 +6,7 @@
 </p>
 <p align="center">
 <a href="https://github.com/elicksom15"><img title="Autor" src="https://img.shields.io/badge/Autor-victorsouzaleal-blue.svg?style=for-the-badge&logo=github"></a>
-</p>
-<p align="center">
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvictorsouzaleal%2Flbot-whatsapp&count_bg=%231D8ED9&title_bg=%23454545&icon=github.svg&icon_color=%23E7E7E7&title=visualizacoes&edge_flat=true"/></a>
-<a href="#"><img title="Versão" src="https://img.shields.io/github/package-json/v/victorsouzaleal/lbot-whatsapp?label=vers%C3%A3o&style=flat-square"></a>
-<a href="#"><img title="Tamanho" src="https://img.shields.io/github/repo-size/victorsouzaleal/lbot-whatsapp?label=tamanho&style=flat-square"></a>
-<a href="https://github.com/victorsouzaleal/followers"><img title="Seguidores" src="https://img.shields.io/github/followers/victorsouzaleal?label=seguidores&style=flat-square"></a>
-<a href="https://github.com/victorsouzaleal/lbot-whatsapp/stargazers/"><img title="Estrelas" src="https://img.shields.io/github/stars/victorsouzaleal/lbot-whatsapp?label=estrelas&style=flat-square"></a>
-<a href="https://github.com/victorsouzaleal/lbot-whatsapp/watchers"><img title="Acompanhando" src="https://img.shields.io/github/watchers/victorsouzaleal/lbot-whatsapp?label=acompanhando&color=blue&style=flat-square"></a>
-<a href="#"><img title="Atualizacao" src="https://img.shields.io/badge/atualizado-Sim-blue.svg"/></a>
-</p>
+
 
 ## Sobre o projeto :
 
@@ -37,7 +28,7 @@ Para clonar, digite os comandos abaixo no Terminal do seu sistema:
 ```
 
 Ou se quiser fazer o download diretamente (extraia o zip e entre na pasta para os passos seguintes):
-https://github.com/victorsouzaleal/lbot-whatsapp/releases/latest
+https://github.com/elicksom15/manicomio/
 
 <br>
 
