@@ -24,7 +24,7 @@ Para clonar, digite os comandos abaixo no Terminal do seu sistema:
 
 ```bash
 > git clone https://github.com/victorsouzaleal/lbot-whatsapp.git
-> cd lbot-whatsapp
+> cd manicomio
 ```
 
 Ou se quiser fazer o download diretamente (extraia o zip e entre na pasta para os passos seguintes):
