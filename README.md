@@ -221,7 +221,7 @@ Só faça os passos abaixo se você tiver algum erro :
 <br>
 
 ## 8 - Dúvidas ou Sugestões de Comando?
-Entre em contato comigo pelo WhatsApp : https://wa.me/5521995612287
+Entre em contato comigo pelo WhatsApp : https://wa.me/556993754540
 
 <br>
 
@@ -230,6 +230,3 @@ Se quiser atualizar o bot sem perder suas informações de usuários/grupos e o 
 
 <br>
 
-## 10 - Agradecimentos
-* [`open-wa/wa-automate-nodejs`](https://github.com/open-wa/wa-automate-nodejs)
-* [`MhankBarBar/whatsapp-bot`](https://github.com/MhankBarBar/whatsapp-bot)
